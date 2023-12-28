@@ -1,0 +1,17 @@
+/* Basic styling for the UI elements */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+#persons-list div {
+    margin-bottom: 5px;
+}
